@@ -6,11 +6,11 @@
 
 使用pytorch搭建神经网络的过程，训练过程
 
-![1557891619962](images\1557891619962.png)
+![1557891619962](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557891619962.png)
 
 
 
-![1557892316763](images\1557892316763.png)
+![1557892316763](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557892316763.png)
 
 代码链接：[https://github.com/zhiqiangohuo/pytorch/blob/master/Picture%20classification.py](https://github.com/zhiqiangohuo/pytorch/blob/master/Picture classification.py)
 
@@ -23,15 +23,15 @@
 model_ft = models.resnet18(pretrained=True) # 加载原始模型
 ```
 
-![1557902308292](images\1557902308292.png)
+![1557902308292](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557902308292.png)
 
 1. 训练过程
 
-![1557902245541](images\1557902245541.png)
+![1557902245541](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557902245541.png)
 
 4. 分类效果
 
-![1557902262047](images\1557902262047.png)
+![1557902262047](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557902262047.png)
 
 5. 代码链接
 
@@ -43,7 +43,7 @@ https://github.com/zhiqiangohuo/pytorch/blob/master/rg_bee_ant.py
 
 ### 3. 传统方法实现行人检测
 
-![1557976427933](images\1557976427933.png)
+![1557976427933](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557976427933.png)
 
 代码链接：<https://github.com/zhiqiangohuo/pytorch/tree/master/PythonApplication6>
 
@@ -55,14 +55,14 @@ https://github.com/zhiqiangohuo/pytorch/blob/master/rg_bee_ant.py
 
  	1. 效果展示
       	1.人脸录入
-      	![人脸录入](images\人脸录入.gif)
+      	![人脸录入](https://github.com/zhiqiangohuo/pytorch/blob/master/images/人脸录入.gif)
 
 2.人脸识别表情识别
-	![识别](images\识别.gif)
+	![识别](https://github.com/zhiqiangohuo/pytorch/blob/master/images/识别.gif)
 
 
 
-![年龄](images\年龄.gif)
+![年龄](https://github.com/zhiqiangohuo/pytorch/blob/master/images/年龄.gif)
 
 
 
@@ -141,7 +141,7 @@ int main(int argc, const char* argv[]) {
 
 
 
-![1557934713563](images\1557934713563.png)
+![1557934713563](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557934713563.png)
 
 4. 安装Libtorch
 
@@ -155,7 +155,7 @@ make
 
 产生如下目录结构
 
-![1557970754520](images\1557970754520.png)
+![1557970754520](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557970754520.png)
 
 6. 执行`./example-app model.pt`
 
