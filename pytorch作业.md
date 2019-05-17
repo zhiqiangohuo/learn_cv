@@ -55,11 +55,13 @@ https://github.com/zhiqiangohuo/pytorch/blob/master/rg_bee_ant.py
 
  	1. 效果展示
       	1.人脸录入
-      	![人脸录入](https://github.com/zhiqiangohuo/pytorch/blob/master/images/人脸录入.gif)
+      	
+![人脸录入](https://github.com/zhiqiangohuo/pytorch/blob/master/images/人脸录入.gif)
+	
 
 2.人脸识别表情识别
-	![识别](https://github.com/zhiqiangohuo/pytorch/blob/master/images/识别.gif)
-
+	
+	
 
 
 ![年龄](https://github.com/zhiqiangohuo/pytorch/blob/master/images/年龄.gif)
