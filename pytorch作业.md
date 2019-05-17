@@ -12,7 +12,7 @@
 
 ![1557892316763](https://github.com/zhiqiangohuo/pytorch/blob/master/images/1557892316763.png)
 
-代码链接：[https://github.com/zhiqiangohuo/pytorch/blob/master/Picture%20classification.py](https://github.com/zhiqiangohuo/pytorch/blob/master/Picture classification.py)
+代码链接：[https://github.com/zhiqiangohuo/pytorch/blob/master/Picture%20classification.py](https://github.com/zhiqiangohuo/pytorch/blob/master/Picture%20classification.py)
 
 ### 2.迁移学习处理图像
 
